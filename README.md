@@ -1,6 +1,8 @@
 ## Ownership
-- Owner: marvin Marlik telegram @solidity pope
+- Owner: Marvin Marlik (telegram @solidity pope)
 - Email: marlikkodes@gmail.com
+
+## Ownership
 
 # SignLedger
 
@@ -646,11 +648,6 @@ MIT License
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Support
-
-- GitHub Issues: https://github.com/vipin08/signledger/issues
-- Documentation: https://github.com/vipin08/signledger
 
 ## Changelog
 
